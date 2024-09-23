@@ -1,0 +1,10 @@
+.alert-success {
+    background-color: #dff0d8;
+    color: #3c763d;
+  }
+  
+  .alert-error {
+    background-color: #f4d9d9;
+    color: #dc3545;
+  }
+  
